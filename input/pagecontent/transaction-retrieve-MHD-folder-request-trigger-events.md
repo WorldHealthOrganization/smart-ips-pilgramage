@@ -1,0 +1,1 @@
+- The retrieve MHD folder docs request transaction is initiated when the host country EMR has extracted a SHL payload from a QR code that was scanned and the decrypted CWT decrypted yielded a HCERT payload that wrapped the SHL payload within it.

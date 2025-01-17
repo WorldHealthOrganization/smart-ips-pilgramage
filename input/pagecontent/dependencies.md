@@ -8,9 +8,11 @@ The following standards and profiles are referenced in this implementation guide
 
   * [Mobile Care Services Discovery (mCSD) Profile](https://profiles.ihe.net/ITI/mCSD/index.html)
 
-  * The International Patient Summary (IPS):
+  * [Mobile access to Health Documents (MHD)](https://profiles.ihe.net/ITI/MHD/index.html)
 
-  * [Health Level 7 (HL7) Fast Healthcare Interoperability Resources (FHIR) IPS Implementation Guide, published by HL7 International - Patient Care Work Group](http://hl7.org/fhir/uv/ips/index.html)
+  * [Privacy Consent on FHIR (PCF)](https://profiles.ihe.net/ITI/PCF/index.html)
+
+* [Health Level 7 (HL7) Fast Healthcare Interoperability Resources (FHIR) IPS Implementation Guide, published by HL7 International - Patient Care Work Group](http://hl7.org/fhir/uv/ips/index.html)
 
 * World Health Organization (WHO):
 

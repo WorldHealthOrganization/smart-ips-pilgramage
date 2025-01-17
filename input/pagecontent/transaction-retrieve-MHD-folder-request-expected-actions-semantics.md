@@ -1,0 +1,2 @@
+- The recipient OCHIE checks if the SHL request is valid and responds with the documentReference as a FHIR bundle Json.
+- The recipient OCHIE acts as a VHL Document Responder and must conform with the capability statement for [VHL Document Responder](/CapabilityStatement/VHLDocumentResponder)

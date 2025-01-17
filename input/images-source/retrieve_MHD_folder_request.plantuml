@@ -7,7 +7,7 @@ participant "Host Country\nEMR" as HCEMR
 participant "Origin Country\nHIE" as OCHIE
 autonumber "<b>00:</b>"
 
-HCEMR -> OCHIE : retrieve SHL Manifest request
-OCHIE -> HCEMR : send SHL Manifest request response
+HCEMR -> OCHIE : retrieve MHD folder docs request
+OCHIE -> HCEMR : send MHD folder docs request response
 
 @enduml

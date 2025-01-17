@@ -1,1 +1,0 @@
-- The recipient OCHIE checks if the SHL request is valid and responds with the SHL Manifest.

@@ -19,8 +19,9 @@ Supporting guidance, recommendations, resources, and standards are included in t
 
 Eligible Participants may request to join through the <a href ="Letter_of_Application_IPS_Pilgrimage_1.0.docx">The Letter of Application</a>
 <br/>
-  </div>
-  <div style="float: right; width: 38%">
+
+</div>
+  <div style="float: left; width: 60%">
     <img src="workflow.png" alt="Overview of key clinical process flows" style="width:85%"/>
   </div>
 </div>
@@ -35,6 +36,7 @@ This implementation guide is broken into the following levels of [knowledge repr
 - <a href="deployment.html">Deployment Guidance </a> - contains relevant technical specifications and guidance, testing resources, reference implementation materials, and supporting guidance for adaptation to local contexts.
 
 This guide assumes use of the following resources: 
+* [MHD Folder](https://profiles.ihe.net/ITI/MHD/StructureDefinition-IHE.MHD.Minimal.Folder.html)
 * [IPS Patient](http://hl7.org/fhir/uv/ips/StructureDefinition/Patient-uv-ips)
 * [IPS Immunization](http://hl7.org/fhir/uv/ips/StructureDefinition/Immunization-uv-ips)
 * [CPG ActivityDefinitions](https://hl7.org/fhir/uv/cpg/artifacts.html#activitydefinition-index)
@@ -50,7 +52,7 @@ This guide assumes use of the following resources:
 The specification herewith documented is a demo working specification and may not be used for any implementation purposes. This draft is provided without warranty of completeness or consistency and the official publication supersedes this draft. No liability can be inferred from the use or misuse of this specification or its consequences.
 
 
-{{ include ip-statements.xhtml }}
-{{ include cross-version-analysis.xhtml }}
-{{ include dependency-table.xhtml }}
-{{ include globals-table.xhtml }}
+{ include ip-statements.xhtml }
+{ include cross-version-analysis.xhtml }
+{ include dependency-table.xhtml }
+{ include globals-table.xhtml }

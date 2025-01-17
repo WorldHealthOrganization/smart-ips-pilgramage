@@ -7,8 +7,8 @@ participant "Origin Country\nHealth Wallet" as HW
 participant "Origin Country\nHIE" as OCHIE
 autonumber "<b>00:</b>"
 
-HW -> OCHIE : send issue SHL request
-OCHIE -> OCHIE : generate HCERT containing the SHL
-OCHIE -> HW : send issue SHL response
+HW -> OCHIE : send issue verifiable SHL request
+OCHIE -> OCHIE : generate HCERT containing the verifiable SHL
+OCHIE -> HW : send issue verifiable SHL response
 
 @enduml
